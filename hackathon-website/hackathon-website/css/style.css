@@ -1,0 +1,256 @@
+/*Code for changing the background of Navbar and changing pushing navbar a little bottom*/
+
+.font-cat{
+     font-family: 'catamaran'
+}
+.navbar{
+    margin-bottom: 0px!important;
+}
+
+/*
+.right.carousel-control, 
+.left.carousel-control 
+{
+     visibility:hidden;
+}
+*/
+
+
+.carousel-control:hover
+{
+    background: rgb(0,0,0,0);
+	
+	box-shadow: inset 0 0 0 0;
+    
+    text-decoration-line: none;
+    
+}
+
+nav div ul li a{
+    color: white;
+    background-color: #0288D1;
+}
+nav div ul li a:hover{
+    background: rgb(0,0,0,0);
+	
+	box-shadow: inset 0 0 0 3px;
+    border-radius: 10px;
+    text-decoration-line: none;
+}
+
+div a:link
+{
+    padding: 20px;
+    text-decoration-line: none;
+    
+}
+
+
+
+
+
+/*End of Code*/
+.navbar-brand img{
+    height: 80px;
+    width: 80px;
+    margin-top: 10px;
+}
+
+/*STYLE for FOOTER*/
+footer{
+/*
+    background-color: #424440;
+    color: white;
+    position: relative;
+    text-decoration: none;
+    height: 200px;
+    font-size: 17px;
+    padding: 10px;
+*/
+    background-color: #0288D1;
+    color: white;
+    text-decoration: none;
+    height: 200px;
+    font-size: 17px; 
+    padding: 20px;
+}
+.footer-ul{
+    margin: 10px;
+}
+
+/* FOOTER */
+#end-footer{
+	text-align: center;
+    background: #0277BD;
+    color: white;
+    
+/*
+    text-align: center;
+    margin-bottom: 0px;
+    position: relative;
+    height: 60px;
+    vertical-align: middle;
+*/
+}
+#end-footer p{
+    margin-top: 1px;
+}
+/*End of FOOTER*/
+
+/* Login page */
+  #registration {
+    text-align: center;
+  }
+
+#registration a:hover
+{
+    text-decoration: none;
+    border-color: white;
+    padding: 5px;
+    color: red;
+    box-shadow: inset 0 0 0 0;
+    
+}
+  .btn-align
+  {
+    margin-left: 41%;
+    display: block;
+  }
+  .login-container {
+      margin-top: 10%;
+      border: 2px solid black;
+      border-radius: 10px;
+      
+      margin-left: 38%;
+      margin-right: 38%;
+  }
+
+  /* SIgn up page */
+ form{
+      margin-top: 2%;
+  }
+  .btn-signup {
+      margin-left: 48%;
+  }
+
+/* extra decor :P */
+a:hover {
+	background: rgb(0,0,0,0);
+	
+	box-shadow: inset 0 0 0 3px;
+    border-radius: 10px;
+    text-decoration-line: none;   
+}
+.bg
+{
+    background-color: #FFFFFF;
+}
+.thumb
+{
+    align-content: center;
+    text-align: center;
+    align-items: center;  
+}
+.thumbnail:hover
+{
+    background-color:#01579B;
+    color: #FFFFFF;
+    text-decoration: none; 
+}
+
+
+.centered {
+   text-align: center;  
+    font-size: 0px;
+}
+.centered > div {
+   float: none;
+   display: inline-block;
+   text-align: center;
+   font-size: 13px;
+}
+/*
+.thumbnail>a:link
+{
+    
+    background-color: #31658d;
+    color: white;
+    padding: 30px;
+}
+*/
+
+.thumb-pad
+{
+    height:180px;
+    
+}
+
+.row
+{
+    margin-top: 30px;
+    
+    
+}
+
+
+.cust-margin
+{
+    margin-top: 20px;
+}
+
+.btn-primary
+{
+    font-size: 1.4em;
+    padding: 10px;
+}
+
+#card1 {
+  margin-left: 1em;
+}
+
+.card3 {
+  margin-right: 1em;
+}
+
+
+.card
+{
+    height:300px;
+    width: auto;
+}
+
+
+.card-img-top
+{
+    width: auto;
+    height: 150px;
+}
+
+/*
+.btn
+{
+    margin-top: 20px;
+}
+*/
+
+.fa-file-pdf-o
+{
+    color: red;
+    
+}
+
+
+.fa-file-pdf-o:hover
+{
+    padding: 4px;
+    
+    text-decoration-line: none;
+}
+
+
+
+
+
+
+
+
